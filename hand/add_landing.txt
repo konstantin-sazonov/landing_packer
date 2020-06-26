@@ -1,0 +1,9 @@
+Name|URL [|Group|Lang|Offers]
+
+IQ - Tv Box Movies – LP1 | https://hot-mine.com/landers/iq-tvbox/index1.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP2 | https://hot-mine.com/landers/iq-tvbox/index2.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP3 | https://hot-mine.com/landers/iq-tvbox/index3.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP4 | https://hot-mine.com/landers/iq-tvbox/index4.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP5 | https://hot-mine.com/landers/iq-tvbox/index5.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP6 | https://hot-mine.com/landers/iq-tvbox/index6.php?lpkey={lp_key}
+IQ - Tv Box Movies – LP7 | https://hot-mine.com/landers/iq-tvbox/index7.php?lpkey={lp_key}
